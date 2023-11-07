@@ -1,9 +1,11 @@
+[project]
 name = "autoscout24"
 description = "A python library to scrape data from https://autoscout24.com"
 
-version = "0.0.1"
-
+version = "0.0.2"
+readme = "README.md"
+requires-python = ">=3.7"
 authors = [
-    "Roy Savion <roysav123@gmail.com>",
+    { name="Roy Savion", email="roysav123@gmail.com" },
 ]
 
