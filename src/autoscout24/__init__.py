@@ -4,7 +4,6 @@ from typing import Optional
 import requests
 import parsel
 import dataclasses
-from .utils import _url_repr
 import caseconverter
 import pydantic
 
