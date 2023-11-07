@@ -1,0 +1,9 @@
+name = "autoscout24"
+description = "A python library to scrape data from https://autoscout24.com"
+
+version = "0.0.1"
+
+authors = [
+    "Roy Savion <roysav123@gmail.com>",
+]
+
